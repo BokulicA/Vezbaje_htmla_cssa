@@ -1,0 +1,18 @@
+button {
+  color: #000000;
+  background-color: #f15412;
+  border-radius: 40px;
+  height: 80px;
+  width: 150px;
+  font-size: large;
+  border: 3px solid #34b3f1;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #34b3f1;
+  border: 3px solid #f15412;
+}
+button:active {
+  transform: scale(0.98);
+}
