@@ -1,0 +1,21 @@
+button {
+
+background-color: rgb(6, 118, 26);
+color: white;
+border: none;
+height:45px;
+width: 110px;
+font-size: 20px;
+cursor: pointer;
+
+
+
+}
+
+button:hover{
+
+margin-left: 2%;
+
+
+
+}

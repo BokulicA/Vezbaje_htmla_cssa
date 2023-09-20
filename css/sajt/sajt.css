@@ -1,0 +1,26 @@
+
+.pozadina{
+    background-color: aqua;
+    vertical-align: top;
+width: 550px;
+}
+body {
+  margin: 20px 8%;
+}
+
+.conainer {
+  display: flex;
+}
+
+.kvadrat {
+  height: 150px;
+  aspect-ratio: 1;
+  background-color: blue;
+  margin: 10px;
+}
+.crvena {
+  background-color: red;
+}
+.zelena {
+  background-color: greenyellow;
+}
